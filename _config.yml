@@ -236,6 +236,17 @@ sass:
 permalink: /:categories/:title/
 timezone: Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Contact"
+    url: /contact/
+
 
 # Pagination with jekyll-paginate
 paginate: 10 # amount of posts to show
