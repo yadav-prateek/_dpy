@@ -128,7 +128,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/beingprateek/home"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-square-x-linkedin"
+      icon: "fab fa-fw fa-square-x-linked-in"
       url: "https://www.linkedin.com/in/prateek-yadav-iitd/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
