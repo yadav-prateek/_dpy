@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Prateek Yadav"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Bio.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Educator, Mentor, Teacher, and Researcher "
   location         : "Greater Noida"
   email            :
