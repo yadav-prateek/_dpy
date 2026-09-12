@@ -16,10 +16,8 @@ last_modified_at: 2026-08-27T12:15:26-04:00
 toc: true
 author_profile: true
 ---
----
-layout: page
-title: About
-permalink: /about/
+
+ABOUT ME
 ---
 
 Welcome to my academic and technical blog! I am an educator, teacher, researcher, and technologist passionate about the intersection of networking, edge computing, and artificial intelligence.
@@ -60,8 +58,8 @@ Feel free to reach out for academic collaborations, research discussions, or gen
 * **Personal Web:** [tinyurl.com/beingprateek](https://tinyurl.com/beingprateek)
 * **Google Scholar:** [Prateek's Profile](https://scholar.google.co.in/citations?user=uJuD2RkAAAAJ&hl=en&oi=ao)
 * **GitHub:** [@your-github-username](https://github.com/your-github-username)
-* **LinkedIn:** [Prateek](https://www.linkedin.com/in/your-linkedin-username)
-* **ResearchGate:** [Prateek's ResearchGate](https://www.researchgate.net/profile/your-profile)
+* **LinkedIn:** [Prateek](https://www.linkedin.com/in/prateek-yadav-iitd/)
+* **ResearchGate:** [Prateek's ResearchGate](https://www.researchgate.net/profile/Prateek-Yadav-9?ev=hdr_xprf)
 
 
 ---
