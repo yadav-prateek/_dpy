@@ -26,10 +26,10 @@ I am using this platform to break down complex topics in modern network architec
 
 ### What You Will Find Here
 
-✔ **Deep dives** into Content Distribution Networks (CDN) and edge/fog node optimization
-✔ **Tutorials and insights** on using tools like Cisco Packet Tracer, LaTeX, MATLAB, CPLEX, and Linux
-✔ **Discussions on cryptography**, drawn from my background analyzing Salsa and ChaCha ciphers 
-✔ **Thoughts on teaching**, mentorship, and building technology with integrity and courage
++ ✔ **Deep dives** into Content Distribution Networks (CDN), Caching, and edge/fog node optimization
++ ✔ **Tutorials and insights** on using tools like Cisco Packet Tracer, LaTeX, MATLAB, CPLEX, and Linux
++ ✔ **Discussions on cryptography**, drawn from my background analyzing Salsa and ChaCha ciphers 
++ ✔ **Thoughts on teaching**, mentorship, and building technology with integrity and courage
 
 ---
 
