@@ -88,15 +88,15 @@ author_profile: true
   <!-- LEFT FIXED SIDEBAR -->
   <aside class="sidebar" markdown="1">
 
-  <img src="/assets/img/profile.jpg" alt="Dr. Prateek" class="profile-pic">
+  <img src="/images/Bio.jpg" alt="Dr. Prateek" class="profile-pic">
 
-  ## Dr. Prateek[cite: 1]
+  ## Dr. Prateek
   **Assistant Professor**  
-  School of AI, Bennett University[cite: 1]
+  School of AI, Bennett University
 
-  📧 [prateek.y089@gmail.com](mailto:prateek.y089@gmail.com)[cite: 1]  
-  🌐 [tinyurl.com/beingprateek](https://tinyurl.com/beingprateek)[cite: 1]  
-  🎓 [Google Scholar](https://scholar.google.co.in/citations?user=uJuD2RkAAAAJ&hl=en&oi=ao)[cite: 1]
+  📧 [prateek.y089@gmail.com](mailto:prateek.y089@gmail.com)
+  🌐 [tinyurl.com/beingprateek](https://tinyurl.com/beingprateek)
+  🎓 [Google Scholar](https://scholar.google.co.in/citations?user=uJuD2RkAAAAJ&hl=en&oi=ao)
 
   ---
 
@@ -117,7 +117,7 @@ author_profile: true
 <section id="about" markdown="1">
 ## About Myself
 
-I am a researcher and educator specializing in **Content Distribution Networks (CDN)**, fog-edge computing, Internet pricing, and unsupervised learning[cite: 1]. I designed the novel *Fog-CDN* architecture[cite: 1].
+I am a researcher and educator specializing in **Content Distribution Networks (CDN)**, fog-edge computing, and algorithms. During my doctoral research work, I designed the novel *Fog-CDN* architecture.
 </section>
 
 ---
@@ -125,8 +125,8 @@ I am a researcher and educator specializing in **Content Distribution Networks (
 <section id="skills" markdown="1">
 ## Core Expertise & Skills
 
-* **Research Domains:** Fog-Edge Computing, Content Distribution Networks (CDN), Cryptanalysis[cite: 1]
-* **Tools & Languages:** Python, C, MATLAB, CPLEX, LaTeX, Jekyll[cite: 1]
+* **Research Domains:** Fog-Edge Computing, Content Distribution Networks (CDNs), Caching, Algorithms, Cryptanalysis
+* **Tools & Languages:** Python, C, MATLAB, CPLEX, LaTeX, Markdown, Jekyll
 </section>
 
 ---
@@ -134,13 +134,13 @@ I am a researcher and educator specializing in **Content Distribution Networks (
 <section id="experience" markdown="1">
 ## Academic & Professional Experience
 
-### Assistant Professor[cite: 1]
-*Bennett University (School of Artificial Intelligence) | Jan 2025 – Present*[cite: 1]
-* Teaching, research, course coordination, and student mentoring[cite: 1].
+### Assistant Professor
+*Bennett University (School of Artificial Intelligence) | Present*
+* Teaching, research, course coordination, and student mentoring.
 
-### Junior Research Fellow (JRF)[cite: 1]
-*DRDO, Scientific Analysis Group (SAG), New Delhi | Oct 2016 – Jul 2017*[cite: 1]
-* Analyzed Transport Layer Security (TLS 1.3) adaptability[cite: 1].
+### Junior Research Fellow (JRF)
+*DRDO, Scientific Analysis Group (SAG), New Delhi | Oct 2016 – Jul 2017*
+* Analyzed Transport Layer Security (TLS 1.3) adaptability.
 </section>
 
 ---
@@ -148,8 +148,9 @@ I am a researcher and educator specializing in **Content Distribution Networks (
 <section id="education" markdown="1">
 ## Education
 
-* **Ph.D. in Electrical Engineering** — IIT Delhi (2017 – 2024)[cite: 1]
-* **M.Tech. in Modelling & Simulation** — DIAT-DRDO, Pune (2014 – 2016)[cite: 1]
+* **Ph.D. in Electrical Engineering** — IIT Delhi
+* **M.Tech. in Modelling & Simulation** — DIAT-DRDO, Pune 
+* **B.Tech. in Computer Science Engineering** — Bundelkhand University, Jhansi 
 </section>
 
 ---
@@ -157,13 +158,25 @@ I am a researcher and educator specializing in **Content Distribution Networks (
 <section id="publications" markdown="1">
 ## Patents & Publications
 
-### Indian Patent[cite: 1]
-P. Yadav and S. Kar, *"A System and Method Facilitating Distribution of Content in a Content Distribution Network (CDN)"*, App No: 202211076879 (May 2024)[cite: 1].
+### Indian Patent
+P. Yadav and S. Kar, *"A System and Method Facilitating Distribution of Content in a Content Distribution Network (CDN)"*, App No: 202211076879 (May 2024).
 
-### Selected Journals[cite: 1]
-* P. Yadav and S. Kar, *"Efficient Content Distribution in Fog-Based CDN..."*, **IEEE Internet of Things Journal**, 2024[cite: 1].
+### Selected Journals
+* P. Yadav and S. Kar, *"Efficient Content Distribution in Fog-Based CDN: A Joint Optimization Algorithm for Fog-Node Placement and Content Delivery"*, **IEEE Internet of Things Journal**, vol. 11, no. 9, pp. 16578-16590, May 2024, doi: 10.1109/JIOT.2024.33554682024.
+* P. Yadav and S. Kar, *"A Cost-Efficient Content Distribution Optimization Model for Fog-based Content Delivery Networks,"* in Journal of Cloud Computing, 13, 141, pp. 1-21, Sep. 2024. doi: 10.1186/s13677-024-00695-9
 </section>
 
+---
+
+<section id="download-cv" markdown="1">
+## Request Full CV
+
+To prevent automated web scraping and unauthorized distribution, please submit your name and institutional/work email below. A PDF copy of my complete CV will be delivered to your inbox instantly.
+
+<!-- PASTE YOUR GOOGLE FORM IFRAME BELOW -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQWqC5OOjuTbSIsafg5_RUqHQff6_fMQ0zxLVmKf5HHRzXjg/viewform?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading form...</iframe>
+
+</section>
 ---
 
 <section id="support" markdown="1">
