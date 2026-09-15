@@ -88,7 +88,7 @@ author_profile: true
   <!-- LEFT FIXED SIDEBAR -->
   <aside class="sidebar" markdown="1">
 
-  <img src="/images/Bio.jpg" alt="Dr. Prateek" class="profile-pic">
+  <img src="/images/Bio.jpeg" alt="Dr. Prateek" class="profile-pic">
 
   ## Dr. Prateek
   **Assistant Professor**  
