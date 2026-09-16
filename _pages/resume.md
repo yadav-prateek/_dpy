@@ -94,7 +94,9 @@ author_profile: true
 <!--<img src="{{ '/images/Bio.jpeg' | relative_url }}" alt="Dr. Prateek" class="profile-pic">-->
 
   ## Dr. Prateek
-  **Assistant Professor**  
+  
+  **Assistant Professor** 
+  
   School of AI, Bennett University
 
   📧 [prateek.y089@gmail.com](mailto:prateek.y089@gmail.com)
@@ -177,8 +179,20 @@ P. Yadav and S. Kar, *"A System and Method Facilitating Distribution of Content 
 To prevent automated web scraping and unauthorized distribution, please submit your name and institutional/work email below. A PDF copy of my complete CV will be delivered to your inbox instantly.
 
 <!-- PASTE YOUR GOOGLE FORM IFRAME BELOW -->
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQWqC5OOjuTbSIsafg5_RUqHQff6_fMQ0zxLVmKf5HHRzXjg/viewform?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading form...</iframe>
+<!--<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQWqC5OOjuTbSIsafg5_RUqHQff6_fMQ0zxLVmKf5HHRzXjg/viewform?embedded=true" width="100%" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading form...</iframe>-->
 
+<div style="width: 100%; max-width: 640px; margin: 20px auto; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.08); background: #ffffff;">
+  <iframe 
+    src="https://docs.google.com/forms/d/e/1FAIpQLSdQWqC5OOjuTbSIsafg5_RUqHQff6_fMQ0zxLVmKf5HHRzXjg/viewform?embedded=true" 
+    width="100%" 
+    height="600" 
+    frameborder="0" 
+    marginheight="0" 
+    marginwidth="0"
+    style="border: none; background: transparent;">
+    Loading form...
+  </iframe>
+</div>
 </section>
 ---
 
