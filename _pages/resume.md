@@ -91,7 +91,7 @@ author_profile: true
 <img src="../images/Bio.jpeg" alt="Dr. Prateek" class="profile-pic">
 
 <!-- Use this instead: -->
-<!--<img src="{{ '/images/Bio.jpeg' | relative_url }}" alt="Dr. Prateek" class="profile-pic">
+<!--<img src="{{ '/images/Bio.jpeg' | relative_url }}" alt="Dr. Prateek" class="profile-pic">-->
 
   ## Dr. Prateek
   **Assistant Professor**  
